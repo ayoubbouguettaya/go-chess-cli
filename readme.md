@@ -3,7 +3,7 @@
 we will working on chess game on CLI using Golang
 
 something similare to this interface
-
+```
   a b c d e f g h
 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 8
 7 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟ 7
@@ -19,6 +19,6 @@ something similare to this interface
  ===================================================
  Welcome to CLI Chess!
 Enter your move (e.g., e2e4 or 'quit'):
-
+```
 ----
 
